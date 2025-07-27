@@ -1,78 +1,101 @@
-# 👋 Hey there! I'm Hemanth
+<h1 align="center">Hey there! I'm Hemanth</h1>
 
-Welcome to my **Developer Portfolio**. I'm a software developer passionate about building efficient, scalable, and user-centric applications. This repo serves as a central hub for some of my **most ambitious and polished projects**.
+<p align="center">
+  <i>A passionate Software Developer with a keen eye for design and a constant drive to refine and elevate my work.</i><br>
+<b>Here’s a glimpse into some of the projects I’ve been building recently..</b>
 
----
-
-## 🧰 Tech Toolbox
-
-**Languages:**  
-`Python` `Java` `C` `JavaScript`
-
-**Frameworks & Libraries:**  
-`ReactJS` `JavaFX` `Node.js` `JDBC`
-
-**Databases:**  
-`SQLite` `Oracle SQL`  
-
-**Tools & Practices:**  
-`Git` `Figma` 
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🌐 climaX — *Modern Movie Search Engine*
-> **Tech:** ReactJS, TMDB API, Appwrite Cloud, CSS Modules  
+> **Tech Stack:** ReactJS, TMDB API, Appwrite Cloud, CSS Modules  
 > **Live Trending + Intelligent Search + Responsive UI**
 
-A sleek React-based web app to search and explore movies in real-time.  
-Tracks live search trends using Appwrite's cloud database and integrates TMDB API for details.
+A sleek and modern movie search web app that pulls real-time data and offers intelligent search based on trending queries.
 
-
+🧠 **Features:**
+- TMDB API integration for movies & posters  
+- Live search trend tracking using Appwrite Cloud DB  
+- Smooth, responsive animations with modular CSS
 
 ---
 
 ### 💬 Multi-User Chat App — *LAN Group & Private Messaging*
-> **Tech:** Java, JavaFX, TCP Sockets, SQLite
+> **Tech Stack:** Java, JavaFX, TCP Sockets, SQLite
 
-A full-fledged desktop chat application enabling real-time **private and group chats** with persistent history, image sharing, and live user presence.
+A desktop LAN chat system with real-time **group and private messaging**, persistent message history, and image sharing.
 
-- Secure login with SHA-256 password hashing  
-- Image sharing via base64 over sockets  
-- Admin-less group creation and management  
-- Persistent chat with SQLite backend  
+🛡 **Highlights:** 
+- Group chat without central admin  
+- Images transferred over base64 sockets  
+- Chat history saved with SQLite
 
-📂 `ChatServer.java` | `ChatClient.java` | `DatabaseHelper.java`
+📦 `ChatServer.java` | `ChatClient.java` | `DatabaseHelper.java`
 
 ---
 
 ### 🎓 University Course Registration System
-> **Tech:** C, CSV Parsing, Command-Line UI  
-> **Focus:** Course seat allocation, real-time waitlists, student/admin modes
+> **Tech Stack:** C, CSV Parsing  
+> **Command-Line Based UI**
 
-Built to simulate real-world course enrollment systems with dynamic seat management and **CGPA-aware waitlists**.
+A CLI-based registration platform that emulates a real university system with **dynamic course management**.
 
-- Add/drop courses with real-time availability  
-- Admin role for managing students and seats  
-- CSV-based modular architecture  
+🎓 **Highlights:**
+- CGPA-aware waitlist management  
+- Add/drop with live seat tracking  
+- Admin & student interface modes  
+- No external DB setup required (CSV-based)
 
-> ⚠ Runs via Code::Blocks. No DB setup needed.
+---
+## 🧰 Tech Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JavaFX-2E7EEA?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
+
+
 ## 🔭 Current Focus
 
-Working on building **immersive front-end applications** using the React ecosystem.  
-Learning advanced **state management** and exploring **cloud integrations** for real-time features.
+Learning advanced **React.js** ecosystem tools like:
+- ☁️ Cloud integrations for real-time apps (Appwrite/Firebase)
+- 🎨 UI/UX polish with Tailwind, CSS Modules
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm always open to collaborations, internships, or freelance opportunities. Whether you're a startup or an individual with an idea—**let’s build something awesome!**
+I'm open to **collabs, internships, or freelance gigs**!  
+Let’s bring creative ideas to life.
 
-📫 **Reach Me:** [hemanthsanthosh05@gmail.com]  
-🐙 **GitHub:** (https://github.com/hems-00)
+📫 **Reach me at:** [hemanthsanthosh05@gmail.com](mailto:hemanthsanthosh05@gmail.com)  
+🐙 **GitHub:** [hems-00](https://github.com/hems-00)
 
+---
 
+⭐ *Thanks for stopping by! Drop a ⭐ on any project you like!*  
