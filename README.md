@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Hemanth
 
-Welcome to my **Developer Portfolio**. I'm a software developer passionate about building efficient, scalable, and user-centric applications. This repo serves as a central hub for some of my **most ambitious and polished projects**, covering full-stack development, desktop apps, and cloud-integrated platforms.
+Welcome to my **Developer Portfolio**. I'm a software developer passionate about building efficient, scalable, and user-centric applications. This repo serves as a central hub for some of my **most ambitious and polished projects**.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my **Developer Portfolio**. I'm a software developer passionate about
 `SQLite` `Oracle SQL`  
 
 **Tools & Practices:**  
-`Git` `Figma` `Appwrite` `REST APIs` `Agile` `Clean Code`
+`Git` `Figma` 
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my **Developer Portfolio**. I'm a software developer passionate about
 A sleek React-based web app to search and explore movies in real-time.  
 Tracks live search trends using Appwrite's cloud database and integrates TMDB API for details.
 
-[View Project ➝](#) | `npm run dev` | [.env setup required]
+
 
 ---
 
@@ -72,18 +72,7 @@ Learning advanced **state management** and exploring **cloud integrations** for 
 
 I'm always open to collaborations, internships, or freelance opportunities. Whether you're a startup or an individual with an idea—**let’s build something awesome!**
 
-📫 **Reach Me:** [YourEmail@example.com]  
-🌐 **Portfolio/Website:** [yourwebsite.com]  
-🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+📫 **Reach Me:** [hemanthsanthosh05@gmail.com]  
+🐙 **GitHub:** (https://github.com/hems-00)
 
----
 
-> “Programming isn’t about what you know; it’s about what you can figure out.”  
-> — *Chris Pine*
-
----
-
-## 📄 License
-
-This work is licensed under the **MIT License**.  
-Feel free to fork, clone, or contribute ✨
