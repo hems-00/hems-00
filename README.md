@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hemanth%20Santhosh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20%7C%20Backend%20%7C%20Full-Stack&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hemanth%20Santhosh&fontSize=52&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -51,12 +51,11 @@ React app pulling live data from TMDB, with search trend tracking stored in Appw
 ## Tech
 
 ```
-Languages    →  Python · Java · JavaScript · C
-Backend      →  Spring Boot · Spring Data JPA · Node.js
-ML / Data    →  LightGBM · FinBERT · SHAP · Pandas · Scikit-learn
-Frontend     →  ReactJS · JavaFX · CSS Modules
-Databases    →  SQLite · Oracle SQL · H2
-Tools        →  Git · Figma · Postman
+Languages     → Python · Java · JavaScript · C/C++ · HTML · CSS
+Frontend      → ReactJS · Next.js · JavaFX · TailwindCSS · CSS Modules · GSAP
+Backend       → Spring Boot · Node.js
+Databases     → PostgreSQL · SQLite · Oracle SQL · MySQL
+
 ```
 
 ---
