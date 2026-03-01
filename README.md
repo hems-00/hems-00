@@ -1,101 +1,82 @@
-<h1 align="center">Hey there! I'm Hemanth</h1>
+<div align="center">
 
-<p align="center">
-  <i>A passionate Software Developer with a keen eye for design and a constant drive to refine and elevate my work.</i><br>
-<b>Here’s a glimpse into some of the projects I’ve been building recently..</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hemanth%20Santhosh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20%7C%20Backend%20%7C%20Full-Stack&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-</p>
+</div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+Hey — I'm Hemanth. I build things that are actually interesting to me: intelligent financial systems, real-time backends, Web3 experiments, and design-driven web apps. I like problems that have real complexity underneath a clean interface.
 
-### 🌐 climaX — *Modern Movie Search Engine*
-> **Tech Stack:** ReactJS, TMDB API, Appwrite Cloud, CSS Modules  
-> **Live Trending + Intelligent Search + Responsive UI**
-
-A sleek and modern movie search web app that pulls real-time data and offers intelligent search based on trending queries.
-
-🧠 **Features:**
-- TMDB API integration for movies & posters  
-- Live search trend tracking using Appwrite Cloud DB  
-- Smooth, responsive animations with modular CSS
+Currently finishing my degree while constantly building, learning, and refining ideas into real projects.
 
 ---
 
-### 💬 Multi-User Chat App — *LAN Group & Private Messaging*
-> **Tech Stack:** Java, JavaFX, TCP Sockets, SQLite
+## What I've been building lately
 
-A desktop LAN chat system with real-time **group and private messaging**, persistent message history, and image sharing.
+<br/>
 
-🛡 **Highlights:** 
-- Group chat without central admin  
-- Images transferred over base64 sockets  
-- Chat history saved with SQLite
+**[Market Regime Intelligence Engine](https://github.com/hems-00/quant)** &nbsp;
 
-📦 `ChatServer.java` | `ChatClient.java` | `DatabaseHelper.java`
+A ticker-agnostic ML pipeline that blends raw OHLCV market data with FinBERT sentiment signals to classify market risk regimes. Built with LightGBM and TimeSeriesSplit cross-validation so there's no look-ahead bias leaking into results. SHAP attribution gives the model actual explainability — you know *why* it flagged a regime shift, not just that it did.
 
----
+`Python` `LightGBM` `FinBERT` `SHAP` `Pandas` `Scikit-learn`
 
-### 🎓 University Course Registration System
-> **Tech Stack:** C, CSV Parsing  
-> **Command-Line Based UI**
+<br/>
 
-A CLI-based registration platform that emulates a real university system with **dynamic course management**.
+**[Crypto Tracker — Notification System](https://github.com/hems-00/money)** &nbsp;
 
-🎓 **Highlights:**
-- CGPA-aware waitlist management  
-- Add/drop with live seat tracking  
-- Admin & student interface modes  
-- No external DB setup required (CSV-based)
+Spring Boot backend that watches crypto prices and fires email alerts the moment user-defined thresholds are crossed. Sub-minute polling intervals, H2 for local caching, and exponential backoff on API rate limits so it doesn't fall apart at 3am. Layered architecture (Controller → Service → Repository) keeps it clean and extensible.
 
----
-## 🧰 Tech Toolbox
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `H2` `Spring Mail`
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-JavaFX-2E7EEA?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+**[Real-Time Concurrent Chat Application](https://github.com/hems-00/chat_app)** &nbsp;
 
-<p>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+Multi-threaded Java server handling 100+ concurrent chat sessions with synchronized DB writes and zero message loss across 10k+ stored entries. Built the full stack — server, client, and storage — and learned a lot about what thread contention actually looks like under load.
 
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+`Java` `JavaFX` `TCP Sockets` `SQLite` `JDBC`
+
+<br/>
+
+**climaX — Movie Search Engine** &nbsp;
+
+React app pulling live data from TMDB, with search trend tracking stored in Appwrite Cloud. The goal was less "movie app" and more "learning how to architect real-time state in React without it becoming a mess."
+
+`ReactJS` `TMDB API` `Appwrite` `CSS Modules`
 
 ---
 
+## Tech
 
-
-## 🔭 Current Focus
-
-Learning advanced **React.js** ecosystem tools like:
-- ☁️ Cloud integrations for real-time apps (Appwrite/Firebase)
-- 🎨 UI/UX polish with Tailwind, CSS Modules
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm open to **collabs, internships, or freelance gigs**!  
-Let’s bring creative ideas to life.
-
-📫 **Reach me at:** [hemanthsanthosh05@gmail.com](mailto:hemanthsanthosh05@gmail.com)  
-🐙 **GitHub:** [hems-00](https://github.com/hems-00)
+```
+Languages    →  Python · Java · JavaScript · C
+Backend      →  Spring Boot · Spring Data JPA · Node.js
+ML / Data    →  LightGBM · FinBERT · SHAP · Pandas · Scikit-learn
+Frontend     →  ReactJS · JavaFX · CSS Modules
+Databases    →  SQLite · Oracle SQL · H2
+Tools        →  Git · Figma · Postman
+```
 
 ---
 
-⭐ *Thanks for stopping by! Drop a ⭐ on any project you like!*  
+## Right now
+
+Deepening my understanding of temporal ML validation for financial data, and building out more of the quant pipeline — specifically around regime-aware position sizing and portfolio overlays.
+
+On the web side, exploring Appwrite and Firebase integrations for real-time apps.
+
+---
+
+## Let's talk
+
+I'm open to collabs, internships, or just good conversations about hard problems.
+
+📬 &nbsp;[hemanthsanthosh05@gmail.com](mailto:hemanthsanthosh05@gmail.com) &nbsp;·&nbsp; 🐙 &nbsp;[github.com/hems-00](https://github.com/hems-00)
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+</div>
