@@ -38,6 +38,12 @@ Multi-threaded Java server handling 100+ concurrent chat sessions with synchroni
 
 `Java` `JavaFX` `TCP Sockets` `SQLite` `JDBC`
 
+**[AI Business Intelligence Platform](https://github.com/hems-00/aibi)** &nbsp;
+
+Built a conversational analytics platform that automatically routes queries to **NL→SQL** or **RAG** pipelines, generating charts, insights, and citation-grounded answers from structured datasets and financial PDFs.
+
+`Spring Boot` `React` `PostgreSQL` `pgvector` `RAG` `DeepSeek` `LLaMA-3.3-70B`
+
 <br/>
 
 **climaX — Movie Search Engine** &nbsp;
